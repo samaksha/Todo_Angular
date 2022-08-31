@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@angular/material": "^14.1.2",
+    "guid-typescript": "^1.0.9",
+    "material-icons": "^1.11.10",
+    "materialize-css": "^1.0.0"
+  }
+}
