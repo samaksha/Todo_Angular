@@ -1,6 +1,6 @@
 # TODO List app
 
-The simple website built with Angular 11 and ASP.NET Core 5 with Entity Framework.
+The simple website built with Angular 11 and ASP.NET Core 6 with Entity Framework.
 
 ## API Setup
 
